@@ -1,0 +1,36 @@
+
+.App-header {
+    background-color: #222;
+    height: 60px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.ClanList {
+
+}
+
+.ClanMember {
+    color: white;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.ProtossClass {
+    background-color: limegreen;
+}
+
+.TerranClass {
+    background-color: dodgerblue;
+}
+
+.ZergClass {
+    background-color: orangered;
+}
